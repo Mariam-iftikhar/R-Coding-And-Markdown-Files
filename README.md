@@ -1,4 +1,4 @@
-# RMarkdown Files
+# R coding & Markdown Files
 
 This repository serves as a comprehensive showcase of my expertise in R Markdown, featuring a collection of work that spans academic assignments, personal projects, and professional analyses. Each document reflects a strong command of data analysis, visualization, and reporting, highlighting my ability to effectively communicate insights.
 
